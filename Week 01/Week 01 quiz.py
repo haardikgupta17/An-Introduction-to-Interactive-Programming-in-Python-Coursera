@@ -1,6 +1,10 @@
-#Q1
+#Q1 How many elif parts
 
 Unlimited, i.e, 0 or more
+
+#Q1 How many else parts
+
+1
 
 #Q2
 
